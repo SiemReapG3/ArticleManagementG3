@@ -1,2 +1,4 @@
 # ArticleManagementG3
-Hello here is our Article project
+Welcome to GitHub!
+Hello here is our Article project.
+
